@@ -18,9 +18,9 @@ What things you need to install ?
 
 
 ### How to use?
-**Open terminal/cmd in the project directory**
+**Open terminal/cmd in the project directory**  
 python Crawl.py your_first_anchor_right_here  
-Example : python Crawl.py https://en.wikipedia.org/wiki/Philosophy_of_science
+Example : python Crawl.py https://en.wikipedia.org/wiki/Philosophy_of_science  
 
 ### Usecases
 - Entry anchor is getting into a loop so Philosophy is not reachable.
@@ -29,4 +29,4 @@ Example : python Crawl.py https://en.wikipedia.org/wiki/Philosophy_of_science
 
 
 ### Authors
-(@MOKHTAR)[https://github.com/mohamed-mokhtar]
+[@MOKHTAR](https://github.com/mohamed-mokhtar)
