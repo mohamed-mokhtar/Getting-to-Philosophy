@@ -19,6 +19,11 @@ What things you need to install ?
 python Crawl.py your_first_anchor_right_here  
 Example : python Crawl.py https://en.wikipedia.org/wiki/Philosophy_of_science
 
+### Usecases
+- Entry anchor is getting into a loop so Philosophy is not reachable.
+- Entry anchor needs more than the limit specified inside the script to reach the target.
+- Entry anchor can reach it correctly.
+
 
 ### Authors
 (@MOKHTAR)[https://github.com/mohamed-mokhtar]
