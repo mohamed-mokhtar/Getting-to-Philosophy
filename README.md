@@ -1,10 +1,10 @@
 # Getting-to-Philosophy
 ### Getting Started
 **Python3 is required**
-These instructions will get you a copy of the project up and running on your local machine for develoment.
-> git clone https://github.com/mohamed-mokhtar/Getting-to-Philosophy
-> cd Getting-to-Philosophy
-> pip install requirements.txt
+These instructions will get you a copy of the project up and running on your local machine for develoment.  
+> git clone https://github.com/mohamed-mokhtar/Getting-to-Philosophy  
+> cd Getting-to-Philosophy  
+> pip install requirements.txt  
 
 #### Requirements
 What things you need to install ?
