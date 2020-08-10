@@ -1,9 +1,9 @@
 # Getting-to-Philosophy
 ### Getting Started
+**Python3 is required**
 These instructions will get you a copy of the project up and running on your local machine for develoment.
 > pip install requirements.txt
-> 
-### Requirements
+#### Requirements
 What things you need to install ?
 - time
 - requests
