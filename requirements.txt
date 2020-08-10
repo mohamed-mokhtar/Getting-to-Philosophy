@@ -1,0 +1,3 @@
+BeautifulSoup
+urlib
+requests
