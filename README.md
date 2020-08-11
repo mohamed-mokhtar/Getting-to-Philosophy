@@ -27,6 +27,16 @@ Example : python Crawl.py https://en.wikipedia.org/wiki/Philosophy_of_science
 - Entry anchor needs more than the limit specified inside the script to reach the target.
 - Entry anchor can reach it correctly.
 
-
+### Samples
+** WORKING FINE **  
+https://en.wikipedia.org/wiki/Bernard_Duprat  
+https://en.wikipedia.org/wiki/Uncertainty  
+https://en.wikipedia.org/wiki/Hoskins,_Nebraska  
+https://en.wikipedia.org/wiki/World  
+https://en.wikipedia.org/wiki/Demolition_(2015_film)  
+https://en.wikipedia.org/wiki/Learning  
+https://en.wikipedia.org/wiki/Education  
+https://en.wikipedia.org/wiki/Mind  
+https://en.wikipedia.org/wiki/Cognitive  
 ### Authors
 [@MOKHTAR](https://github.com/mohamed-mokhtar)
