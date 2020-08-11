@@ -58,7 +58,6 @@ def get_first_anchor(url):
     first_anchor = urllib.parse.urljoin('https://en.wikipedia.org/', article_anchor)
     return first_anchor
 
-
 def check_anchor(visited_anchors, target_anchor, limit=100):
     """
     Scraping eac dose the core of the script (scraping/crawling loop)
@@ -79,7 +78,6 @@ def check_anchor(visited_anchors, target_anchor, limit=100):
         return False
     else:
         return True
-
 
 def get_philosophy(entry_anchor):
     """
